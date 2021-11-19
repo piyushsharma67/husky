@@ -14,7 +14,6 @@ const HomeScreen = function () {
 };
 
 const Stack = createNativeStackNavigator();
-console.log('dsbfnds');
 
 const App = function () {
   return (
