@@ -49,8 +49,7 @@
   },
   "lint-staged": {
     "*.{js,ts,tsx}": [
-      "npm run fixlint",
-      "git add"
+      "npm run fixlint"
     ]
   },
   "jest": {
