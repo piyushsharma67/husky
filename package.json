@@ -51,6 +51,7 @@
     "*.{js,ts,tsx}": [
       "npm run fixlint",
       "git add"
+      
     ]
   },
   "jest": {
